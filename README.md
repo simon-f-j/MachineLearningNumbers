@@ -1,4 +1,4 @@
 # MachineLearningNumbers
 Numbers recognition trough ML
 
-Updated readme.
+Simple test of Tensorflow package on the MNIST database of handwritten numbers
